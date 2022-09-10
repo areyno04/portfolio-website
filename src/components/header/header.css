@@ -1,0 +1,61 @@
+header {
+    height: 31.5vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+.header__container {
+    text-align: center;
+    height: 100%;
+    position: relative;
+}
+
+/* ============================= CTA ===================================*/
+
+.cta {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 1.2rem;
+    justify-content: center;
+}
+
+/* ============================= Socials ===================================*/
+
+.header__socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    position: absolute;
+    left: 2rem;
+    bottom: 3rem;
+}
+.header__socials::after {
+    content: "";
+    width: 1px;
+    height: 2rem;
+    background: var(--color-primary);
+}
+
+/*=============================== QUERIES MD ================================*/
+
+@media screen and (max-width: 1024px) {
+    header {
+        height: 31.5vh;
+    }
+    .header__socials {
+        display: none;
+    }
+}
+
+/*=============================== QUERIES SM ===================================*/
+
+@media screen and (max-width: 600px) {
+    header {
+        height: 31.5vh;
+    }
+
+    .header__socials {
+        display: none;
+    }
+}
