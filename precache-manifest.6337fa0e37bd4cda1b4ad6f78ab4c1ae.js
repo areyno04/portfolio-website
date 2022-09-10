@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "91813851e59ea592ffe9",
-    "url": "/portfolio-website/static/css/main.22148f3c.chunk.css"
+    "revision": "71ffd192937c7a26b91e",
+    "url": "/portfolio-website/static/css/main.9b097814.chunk.css"
   },
   {
-    "revision": "91813851e59ea592ffe9",
-    "url": "/portfolio-website/static/js/main.91813851.chunk.js"
+    "revision": "71ffd192937c7a26b91e",
+    "url": "/portfolio-website/static/js/main.71ffd192.chunk.js"
   },
   {
     "revision": "45542252074f955224a1",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/comingsoon.74600bfb.jpg"
   },
   {
-    "revision": "9ddce8e852ce96625f4e5c86163ab072",
-    "url": "/portfolio-website/static/media/Software Developer Resume.9ddce8e8.pdf"
+    "revision": "f5600ec55c3ffcc63728db7628c98e97",
+    "url": "/portfolio-website/static/media/Software Developer Resume.f5600ec5.pdf"
   },
   {
     "revision": "154a574ea9750c765bf97fadbe550efb",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/portfolio-website/static/media/atoms.f95b8a9b.jpg"
   },
   {
-    "revision": "0a62a89d10c95adc6c12548084cf86d3",
+    "revision": "ce891e191d2c7ad1d09d6575f2e76121",
     "url": "/portfolio-website/index.html"
   }
 ];
